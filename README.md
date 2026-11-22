@@ -35,7 +35,7 @@ MCBOT_ADMINS=<管理员QQ,逗号分隔>
 MCBOT_OWNERS=<主人QQ,逗号分隔>
 MCBOT_PIG_OWNER=<可用 /猪 的QQ>
 MCBOT_PIG_BLACKLIST=<黑名单QQ,逗号分隔>
-MCBOT_CONTROLLER_KEY=<与 controller.js 的 MCBOT_CTRL_KEY 一致>
+MCBOT_CONTROLLER_KEY=<与 controller.js 的 CTRL_KEY 一致（也接受 CTRL_KEY）>
 ```
 
 未设置时对应列表为空、`CONTROLLER_KEY` 为 `change-me`，插件仍可加载但无法通过控制器鉴权。
