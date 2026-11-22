@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+state.json
+pay.json
+pay-state.json
+*.bak*
+*.log
